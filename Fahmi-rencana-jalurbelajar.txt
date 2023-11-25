@@ -5,3 +5,4 @@ RENCANA JALUR BELAJAR FAHMI
 * CSS Layout
 * CSS Grid
 - Javascript
+- Git dan Github
