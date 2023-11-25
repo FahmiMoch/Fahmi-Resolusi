@@ -2,12 +2,10 @@ RENCANA JALUR BELAJAR FAHMI
 
 - html dasar dan html5
 - CSS
-^ Margin
+^ Padding
+^ Border radius
 * CSS Layout
 * CSS Grid
 - Javascript
 ^ DOM
-^ Boolean
-- Bootstrap
-- Git dan Github
 
