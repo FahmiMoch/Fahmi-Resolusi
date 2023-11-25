@@ -2,4 +2,6 @@ RENCANA JALUR BELAJAR FAHMI
 
 - html dasar dan html5
 - CSS
+* CSS Layout
+* CSS Grid
 - Javascript
