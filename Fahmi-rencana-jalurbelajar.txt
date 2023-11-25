@@ -2,7 +2,11 @@ RENCANA JALUR BELAJAR FAHMI
 
 - html dasar dan html5
 - CSS
+^ Margin
 * CSS Layout
 * CSS Grid
 - Javascript
+^ DOM
+- Bootstrap
 - Git dan Github
+
